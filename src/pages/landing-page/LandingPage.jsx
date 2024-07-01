@@ -106,7 +106,7 @@ const LandingPage = () => {
         </button>
       </div>
       <footer className={footer}>
-        Crafted with <i className="fas fa-heart" /> by Avanthi
+        Crafted with <i className="fas fa-heart" /> by Abhiram Gorle
       </footer>
     </div>
   );
