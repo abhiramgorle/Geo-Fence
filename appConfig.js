@@ -1,18 +1,18 @@
 export const APP_CONFIG = {
   META: {
-    name: 'Navigo',
+    name: 'Geo-Fence',
     description: 'Discover exciting new places by drawing on the map',
     shortDescription: 'Discover exciting new places!',
-    keywords: 'navigo, navigation, discover places',
+    keywords: 'Geo-Fence, navigation, discover places',
     app: {
       background: '#26323b',
     },
     social: {
-      twitter: '@Avanthi',
+      twitter: '@AbhiramGorle',
     },
   },
   CLOUDFLARE_ANALYTICS_TOKEN: '7f2946e6ad2046e79876eb81ffd212ec',
-  PROD_BASE_URL: 'https://navigo-app.pages.dev',
+  PROD_BASE_URL: 'https://geo-fence-chi.vercel.app/',
 };
 
 export const META_TAGS = [
